@@ -41,6 +41,3 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ranizouaoui)](https://git.io/streak-stats)
