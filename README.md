@@ -20,11 +20,11 @@
 
 ### :woman_technologist: About Me :
 
-- I'm an Embedded Systems Engineering Student and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from tunisia. I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code
+- I'm an IT Engineering Student and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from tunisia. I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code
 
 - :zap: In my free time, I solve problems on Codeforces and write tech articles.
 
-- :basecamp: Fun fact: I'm a huge fan of PewDiePie , I love to eat :cake: and travel :earth_africa:
+- :basecamp: I’m currently learning <strong>DevOps and DevSecOps</strong>
 
 ### :hammer_and_wrench: Languages and Tools :
 
