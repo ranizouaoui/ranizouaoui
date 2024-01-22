@@ -6,8 +6,7 @@ person:
   role: IT Engineer
 
 bio: |
-  I am passionate about DevOps, automation, and ensuring seamless collaboration between development and operations teams.
-
+  I enjoy DevOps, automation, and problem solving as my hobbies.
 experience:
   - title: DevOps intern engineer
     company: jems-group
