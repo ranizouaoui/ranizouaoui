@@ -33,7 +33,7 @@ current_state:
   looking_for: 
     - Exciting opportunities in DevOps and Automation
 
-future_goal: "To contribute to the advancement of DevOps practices and promote automation for efficient and reliable software delivery."
+future_goal: "To contribute to open source."
 ```
 ### :hammer_and_wrench: Languages and Tools :
 
