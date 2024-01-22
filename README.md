@@ -12,11 +12,9 @@ experience:
   - title: DevOps intern engineer
     company: jems-group
     responsibilities:
-      - Develop and deploy cloud applications on AWS
       - Automate deployment, testing, monitoring and fixing of cloud applications
       - Optimize performance, security, reliability and scalability of cloud applications
       - Collaborate with development, testing, operation and support teams
-      - Document architectures, solutions, procedures and issues
 
 education:
   - degree: Engineering degree in Computer Science
