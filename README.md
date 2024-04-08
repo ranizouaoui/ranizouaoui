@@ -8,7 +8,7 @@ person:
 bio: |
   I enjoy DevOps, automation, and problem solving as my hobbies.
 experience:
-  - title: DevOps intern engineer
+  - title: DevOps & Cloud engineer
     company: jems-group
     responsibilities:
       - Automate deployment, testing, monitoring and fixing of cloud applications
