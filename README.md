@@ -3,7 +3,7 @@
 ```yaml
 person:
   name: Rani Zouaoui
-  role: IT Engineer
+  role: Devops & Cloud Engineer
 
 bio: |
   I enjoy DevOps, automation, and problem solving as my hobbies.
